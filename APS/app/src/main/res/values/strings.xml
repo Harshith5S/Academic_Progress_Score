@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">APS</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="Fac_login">Faculty Login </string>
+    <string name="adm_Login">Admin Login</string>
+    <string name="Details">The year was 1935. The Indian nation was yet to be born. Ruled by the British regime there was more deprivation than development. While many chose the path of the fight to gain political independence, one man with a vision trod a different path towards securing academic independence. Prof N. Ananthachar dared to start a primary school on 15th August 1935, a date Indian destiny chose for its independence, twelve years later. An endowed teacher with a Master’s Degree, the founder of APS institutions, initially chose to trade in vegetables in the Basavanagudi region of Bangalore.</string>
+    <string name="information">https://www.apsce.ac.in/</string>
+    <string name="college_name">APS College Of Engineering</string>
+    <string name="info">For More Information :-</string>
+    <string name="P_View">Faculty Profile View</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://AcademeicProgressScore.com/.well-known/assetlinks.json\" }]</string>
+    <string name="Developer_Name">Aishwarya R, Ajithgopal S K, Harshith S, Nayan V Kustagi</string>
+    <string name="designed_by">Designed By:-</string>
+    <string name="Qualification">
+  <li>1) Phd(completed) </li>\n
+  <li>2) phd(intermediate)</li>\n
+  <li>3) M.Tech</li>\n
+</string>
+</resources>

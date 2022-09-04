@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.android.aps.MainActivity">
+    <item
+        android:id="@+id/Fac_Login"
+        android:orderInCategory="100"
+        android:menuCategory="container"
+        android:visible="true"
+        android:title="@string/Fac_login"
+        app:showAsAction="never"
+        app:actionViewClass="android.widget.Button"/>
+    <item
+        android:id="@+id/Lec_login"
+        android:orderInCategory="100"
+        android:menuCategory="container"
+        android:visible="true"
+        android:title="@string/adm_Login"
+        app:showAsAction="never"
+        app:actionViewClass="android.widget.Button" />
+    <item
+        android:id="@+id/Profile_View"
+        android:orderInCategory="100"
+        android:menuCategory="container"
+        android:visible="true"
+        android:title="@string/P_View"
+        app:showAsAction="never"
+        app:actionViewClass="android.widget.Button" />
+</menu>
